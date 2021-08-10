@@ -90,7 +90,7 @@ bike1.input[0]=r*w;      //v = rw , and asume the bicycle velocity is the rare w
 bike1.input[1]={0};
 bike1.input[2]={(pi/6 )};
 
-for (int i = 0; i < 200; i++) //test 50 iteration
+for (int i = 0; i < 50; i++) //test 50 iteration
 {
 bike1.forward_kinematics(bike1.input);
 bike1.print_output();
