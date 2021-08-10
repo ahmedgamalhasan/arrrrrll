@@ -3,7 +3,7 @@ import math
 
 def stanley( input_param, way_points_point, parameter):
     if input_param[0] == 0:
-        input_param[0] = 0.0000000000001
+        input_param[0] = 0.0000000000001    // to avoid division by 0
     a = -(way_points_point[3]-way_points_point[2])
     b = (way_points_point[1]-way_points_point[0])
     c = (-a)*way_points_point[0]-(b*way_points_point[2])
