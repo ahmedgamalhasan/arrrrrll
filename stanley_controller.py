@@ -34,7 +34,7 @@ def stanley( input_param, way_points_point, parameter):
     return steer_angle
 
 
-input_param = [0, 0, 0.349066, 2]      # x  y theta v
+input_param = [0, 0, 0.5, 2]      # x  y theta v
 way_points = [0, 10, 10, 11]              # x1 x2 y1 y2
 param = [0.5, 1.57, -1.57, 1]           # gain   max_steer min_steer sof_param
 stanley(input_param, way_points, param)
