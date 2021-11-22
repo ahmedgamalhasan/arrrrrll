@@ -1,3 +1,3 @@
 # arrrrrlll
 
-https://drive.google.com/file/d/1LIVBEdBIoPR1kBozaileOnFed9Te10Gi/viewn
+https://youtube.com/playlist?list=PLCBOti_m5gz5AgyV7I8r09IBpfPur5qNG
